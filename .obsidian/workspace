@@ -1,0 +1,193 @@
+{
+  "main": {
+    "id": "e88e0de572ed5662",
+    "type": "split",
+    "children": [
+      {
+        "id": "327a3c52e58ed260",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "action plan/opportunities--2021/laravel.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e602881e46964cbe",
+    "type": "split",
+    "children": [
+      {
+        "id": "a80645ba7b773334",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d85cfae3f3a67f73",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "78d6baa90cd8ed33",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "7802c9f05de3633a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6fba666e60c6dabd",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "90341932e74ac021",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d4591ff5e15d2009",
+    "type": "split",
+    "children": [
+      {
+        "id": "5cff4117b52c00b6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b382edd0070462f",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {}
+            }
+          },
+          {
+            "id": "e2ae493cffb7aa6f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "action plan/opportunities--2021/laravel.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f48f4ccc06b70d47",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "action plan/opportunities--2021/laravel.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8d878768e264950c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d9cabc21c827ac63",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "action plan/opportunities--2021/laravel.md"
+              }
+            }
+          },
+          {
+            "id": "b297a72bd0e12d22",
+            "type": "leaf",
+            "state": {
+              "type": "BC-matrix",
+              "state": {}
+            }
+          },
+          {
+            "id": "aa70c1a31a5a68e5",
+            "type": "leaf",
+            "state": {
+              "type": "BC-stats",
+              "state": {}
+            }
+          },
+          {
+            "id": "1817c1fdfb11e866",
+            "type": "leaf",
+            "state": {
+              "type": "BC-tree",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "327a3c52e58ed260",
+  "lastOpenFiles": [
+    "action plan/opportunities--2021/laravel.md",
+    "action plan/opportunities--2021/retrospectives/index.md",
+    "action plan/opportunities--2021/node-conferences.md",
+    "action plan/opportunities--2021/index.md",
+    "action plan/opportunities--2021/elixir-linkedin.md",
+    "action plan/opportunities--2021/rejected.md",
+    "action plan/opportunities--2021/elixir.md",
+    "opportunities--2021/elixir-conferences.md",
+    "action plan/opportunities--2021/elixir-job_boards.md",
+    "action plan/opportunities--2021/elixir-conferences--2022.md"
+  ]
+}
