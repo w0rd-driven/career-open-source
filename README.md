@@ -40,12 +40,12 @@ This is a starter project that mirrors my long-running private repository. Since
 * [ ] Action plan
     * [ ] All cross-links are functional
     * [ ] Data scrubbed
-* [ ] Case Studies
-    * [ ] Include example
-* [ ] Cover letter
-    * [ ] Template scrubbed
-    * [ ] Archive with example from Spreedly scrubbed
+* [x] Case Studies
+    * [x] Include example
+* [x] Cover letter
+    * [x] Template scrubbed
+    * [x] Archive with example from Spreedly scrubbed
 * [ ] Elevator pitch
 * [ ] Opportunities
-* [ ] Stories
-    * [ ] Include example
+* [x] Stories
+    * [x] Include example
