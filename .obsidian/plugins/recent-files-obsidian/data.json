@@ -1,6 +1,74 @@
 {
   "recentFiles": [
     {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "index",
+      "path": "opportunities/index.md"
+    },
+    {
+      "basename": "index",
+      "path": "elevator pitch/index.md"
+    },
+    {
+      "basename": "index",
+      "path": "case studies/index.md"
+    },
+    {
+      "basename": "archive-content",
+      "path": "case studies/rethink/archive-content.md"
+    },
+    {
+      "basename": "index",
+      "path": "cover letters/index.md"
+    },
+    {
+      "basename": "index",
+      "path": "action plan/index.md"
+    },
+    {
+      "basename": "index",
+      "path": "journal/index.md"
+    },
+    {
+      "basename": "index",
+      "path": "resume/index.md"
+    },
+    {
+      "basename": "index",
+      "path": "stories/index.md"
+    },
+    {
+      "basename": "index",
+      "path": "study plans/index.md"
+    },
+    {
+      "basename": "index",
+      "path": "website/index.md"
+    },
+    {
+      "basename": "elixir-linkedin",
+      "path": "action plan/opportunities--2021/elixir-linkedin.md"
+    },
+    {
+      "basename": "opportunities--2022-02-14",
+      "path": "action plan/opportunities--2022-02-14.md"
+    },
+    {
+      "basename": "index",
+      "path": "study plans/books/index.md"
+    },
+    {
+      "basename": "standup",
+      "path": "assets/templates/standup.md"
+    },
+    {
+      "basename": "opportunities--future",
+      "path": "action plan/opportunities--future.md"
+    },
+    {
       "basename": "laravel",
       "path": "action plan/opportunities--2021/laravel.md"
     },
@@ -17,20 +85,12 @@
       "path": "action plan/opportunities--2021/index.md"
     },
     {
-      "basename": "elixir-linkedin",
-      "path": "action plan/opportunities--2021/elixir-linkedin.md"
-    },
-    {
       "basename": "rejected",
       "path": "action plan/opportunities--2021/rejected.md"
     },
     {
       "basename": "elixir",
       "path": "action plan/opportunities--2021/elixir.md"
-    },
-    {
-      "basename": "elixir-conferences",
-      "path": "opportunities--2021/elixir-conferences.md"
     },
     {
       "basename": "elixir-job_boards",
@@ -50,43 +110,7 @@
     },
     {
       "basename": "index",
-      "path": "action plan/index.md"
-    },
-    {
-      "basename": "opportunities--future",
-      "path": "action plan/opportunities--future.md"
-    },
-    {
-      "basename": "opportunities--2022-02-14",
-      "path": "action plan/opportunities--2022-02-14.md"
-    },
-    {
-      "basename": "standup",
-      "path": "assets/templates/standup.md"
-    },
-    {
-      "basename": "index",
-      "path": "case studies/index.md"
-    },
-    {
-      "basename": "index",
       "path": "compensation/index.md"
-    },
-    {
-      "basename": "index",
-      "path": "elevator pitch/index.md"
-    },
-    {
-      "basename": "index",
-      "path": "journal/index.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
-      "basename": "2022-06-16_Thursday",
-      "path": "journal/2022-06-16_Thursday.md"
     }
   ],
   "omittedPaths": [],
