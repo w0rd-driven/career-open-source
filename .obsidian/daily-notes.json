@@ -1,0 +1,6 @@
+{
+  "folder": "journal",
+  "template": "assets/templates/standup",
+  "format": "YYYY-MM-DD_dddd",
+  "autorun": true
+}

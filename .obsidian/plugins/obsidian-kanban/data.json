@@ -1,0 +1,6 @@
+{
+  "show-checkboxes": true,
+  "prepend-archive-date": true,
+  "link-date-to-daily-note": true,
+  "date-picker-week-start": 1
+}
