@@ -4,7 +4,7 @@
 
 * [x] Pick at least 10 companies to apply.
     * [ ] GetThru: 8 (On call rotation, salary)
-		* [GetThru](opportunities--2021/elixir-conferences.md#getthru)
+		* [GetThru](opportunities--2021/elixir-conferences--2022.md#getthru)
 * [ ] Pool (move forward until depleted)
 	* [ ] Gearflow: 3
 		* [Gearflow](opportunities--2021/elixir.md#gearflow)

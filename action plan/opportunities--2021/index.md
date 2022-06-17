@@ -44,7 +44,7 @@
         ```
 
 2. Choose 5 to 10 per week to research, storing notes in the files under the [Sources](#sources).
-	1. [ElixirConf](elixir-conferences.md) is the main source of truth for most Elixir opportunities, everything should point to it.
+	1. [ElixirConf](elixir-conferences--2022.md) is the main source of truth for most Elixir opportunities, everything should point to it.
 	2. This should include vibe check, Fibonacci rating and green/red flags.
 	3. Vibe is a pass or fail rating, done initially to gauge pursuing further and can be revoked at any time.
 	4. Rating is Fibonacci from -1, 1, 3, 5, 8, to 13 where -1 corresponds to a fail vibe.
@@ -116,9 +116,9 @@ First application to Remote was sent `8/20/2021 4:42pm`
 
 1. [Elixir (random)](elixir.md)
 2. [2022 Chat](elixir-chat--2022.md)
-3. [Conferences](elixir-conferences.md)
+3. [2022 Conferences](elixir-conferences--2022.md)
 4. [LinkedIn](elixir-linkedin.md)
-5. [Job Boards](elixir-job_boards.md)
+5. [2022 Job Boards](elixir-job_boards--2022.md)
 
 ### Laravel
 

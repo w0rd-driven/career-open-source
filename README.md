@@ -37,15 +37,35 @@ This is a starter project that mirrors my long-running private repository. Since
 
 ## TODO
 
-* [ ] Action plan
-    * [ ] All cross-links are functional
-    * [ ] Data scrubbed
-* [x] Case Studies
-    * [x] Include example
-* [x] Cover letter
-    * [x] Template scrubbed
-    * [x] Archive with example from Spreedly scrubbed
-* [ ] Elevator pitch
-* [ ] Opportunities
-* [x] Stories
-    * [x] Include example
+
+* [ ] Import
+    * Initial import from the master repository and potentially sensitive information scrubbing
+    * [x] Action plan
+        * [x] All cross-links are functional
+        * [x] Data scrubbed
+    * [x] Case Studies
+        * [x] Include example
+    * [x] Cover letter
+        * [x] Template scrubbed
+        * [x] Archive with example from Spreedly scrubbed
+    * [ ] Elevator pitch
+        * [ ] All cross links are functional
+    * [ ] Opportunities
+        * [ ] Correspondence
+        * [ ] Template and generator shell script
+        * [ ] Examples
+    * [x] Stories
+        * [x] Include example
+* [ ] Refinement
+    * Refining processes after a careful study of the existing data. My interview process could likely be adjusted to produce far better results with less work.
+    * [ ] Complete elevator pitch
+    * [ ] Action plan research checklist following concept I captured in Microsoft Todo
+        * [ ] Use Pomodoro time boxing to quickly get to a pass / fail response
+        * [ ] Should have a cover letter and application complete within 1-2 hours tops and even that may be too long.
+        * [ ] Try to eliminate the multitasking or batch application process. I sent the wrong application to multiple companies at 2am by mistake.
+    * [ ] Interview prep checklists
+        * [ ] Standard list of questions
+        * [ ] Audible questions - Things I may pick up on the fly
+        * [ ] Financial stability assurances
+        * [ ] Systems research on StackShare etc
+        * [ ] Systems review for concepts like payment systems or relevant industry practices
