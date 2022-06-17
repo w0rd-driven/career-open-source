@@ -48,8 +48,8 @@ This is a starter project that mirrors my long-running private repository. Since
     * [x] Cover letter
         * [x] Template scrubbed
         * [x] Archive with example from Spreedly scrubbed
-    * [ ] Elevator pitch
-        * [ ] All cross links are functional
+    * [x] Elevator pitch
+        * [x] All cross links are functional
     * [ ] Opportunities
         * [ ] Correspondence
         * [ ] Template and generator shell script

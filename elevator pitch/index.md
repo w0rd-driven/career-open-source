@@ -53,9 +53,9 @@ Hey there, my name is Jeremy Brayton. I am a Full Stack Web Developer
 
 * [Biography](biography.md)
 
-## Summary
+## Resume Summary
 
-* [Summary](summary.md)
+* [Resume Summary](resume-summary.md)
 
 ## Questions
 
@@ -71,7 +71,3 @@ I usually include a bit of the following:
 * Some follow up about what you spoke about (Additional comments, questions, etc)
 * I also include some comments about the problem we solved if it was a tech interview. I would also suggest sending a better solution if you have the time to type one out. Or solve it if time ran out.
 
-## Hack the Tech Interview
-
-* [Acing the Recruiter Call](/notes/hack-the-tech-interview.md#acing-the-recruiter-call)
-* [Excelling At The Culture Fit Interview](/notes/hack-the-tech-interview.md#excelling-at-the-culture-fit-interview)
