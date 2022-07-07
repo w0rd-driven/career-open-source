@@ -52,6 +52,7 @@ This is a starter project that mirrors my long-running private repository. Since
         * [x] All cross links are functional
     * [ ] Opportunities
         * [ ] Correspondence
+            * [x] These were started but never completed. We can do that in the refinement phase
         * [ ] Template and generator shell script
         * [ ] Examples
     * [x] Stories
@@ -69,3 +70,4 @@ This is a starter project that mirrors my long-running private repository. Since
         * [ ] Financial stability assurances
         * [ ] Systems research on StackShare etc
         * [ ] Systems review for concepts like payment systems or relevant industry practices
+    * [ ] Correspondence templates

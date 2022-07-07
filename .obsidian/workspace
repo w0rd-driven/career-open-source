@@ -7,12 +7,8 @@
         "id": "be0c63009132f43f",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "README.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -74,7 +70,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -102,7 +98,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +114,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,9 +135,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           },
           {
@@ -179,15 +171,15 @@
   },
   "active": "be0c63009132f43f",
   "lastOpenFiles": [
+    "journal/2022-06-29_Wednesday.md",
+    "journal/2022-06-28_Tuesday.md",
     "README.md",
-    "opportunities/index.md",
-    "elevator pitch/index.md",
-    "elevator pitch/summary.md",
-    "case studies/index.md",
-    "case studies/rethink/archive-content.md",
-    "cover letters/index.md",
-    "action plan/index.md",
-    "elevator.md",
-    "journal/index.md"
+    "action plan/opportunities--future.md",
+    "action plan/opportunities--2022-02-14.md",
+    "action plan/opportunities--2021/retrospectives/2022-02-28.md",
+    "action plan/opportunities--2021/retrospectives/index.md",
+    "cover letters/archive/2022-elixir-spreedly.md",
+    "elevator pitch/resume-summary.md",
+    "elevator pitch/references.md"
   ]
 }
