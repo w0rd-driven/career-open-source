@@ -1,11 +1,25 @@
 # Career Management
 
-This is a starter project that mirrors my long-running private repository. Since there's potentially proprietary information, attempts were made to scrub down to the current behavior.
+A starter project for career-related material in Markdown.
 
 ### Table of Contents
 
+* [Summary](#summary)
 * [Directory Structure](#directory-structure)
 * [TODO](#todo)
+
+## Summary
+
+This code base started in 2016 as just my jsonresume and relevant files. In February 24, 2020 that converged into this existing format.
+This heavily leverages Obsidian to greatly enhance workflows. Obsidian's template functionality allows us to open a standup journal every time it's opened.
+It's recommended to close and open once per day to utilize this behavior. I find it's not too difficult to estimate 8 hours of daily tasks if done this way.
+
+After estimating my day, I then finalize the prior day's notes. This allows me to prune everything back to only focus on what I accomplished.
+I tend to also complete the `Diary` portion that is meant to highlight skills used or learned. This is a great place for a TIL.
+Finalizing tasks tends to take the most time so someone with more discipline may prefer to do more during the day as tasks complete.
+
+The `Directory Structure` section gives a brief explanation of each directory and how things are split up.
+The `TODO` section lists my plan to refine the processes further.
 
 ## Directory Structure
 
@@ -22,8 +36,8 @@ This is a starter project that mirrors my long-running private repository. Since
 * [elevator pitch](elevator%20pitch/index.md)
     * Elevator pitch from the MIT handbook. This also covers other parts split out like my biography and summary. Other useful information is kept here like interview questions
 * [journal](journal/index.md)
-    * Career diary capturing TIL or what I worked on.
     * Today's Daily Note/Standup files.
+    * Career diary capturing TIL or what I worked on.
 * [opportunities](opportunities/index.md)
     * Job opportunities including our template and generator for keeping track of research, the interview process, and job offers.
 * [resume](resume/index.md)
@@ -37,8 +51,7 @@ This is a starter project that mirrors my long-running private repository. Since
 
 ## TODO
 
-
-* [ ] Import
+* [x] Import
     * Initial import from the master repository and potentially sensitive information scrubbing
     * [x] Action plan
         * [x] All cross-links are functional
@@ -50,11 +63,11 @@ This is a starter project that mirrors my long-running private repository. Since
         * [x] Archive with example from Spreedly scrubbed
     * [x] Elevator pitch
         * [x] All cross links are functional
-    * [ ] Opportunities
+    * [x] Opportunities
         * [ ] Correspondence
             * [x] These were started but never completed. We can do that in the refinement phase
-        * [ ] Template and generator shell script
-        * [ ] Examples
+        * [x] Template and generator shell script
+        * [x] Examples
     * [x] Stories
         * [x] Include example
 * [ ] Refinement
