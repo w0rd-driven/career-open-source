@@ -19,3 +19,7 @@
 [ElixirConf EU -- Speakers](https://www.elixirconf.eu/#keynotes)
 [ElixirConf EU -- Sponsors](https://www.elixirconf.eu/#sponsors)
 
+## ElixirConf US
+
+[ElixirConf · 2022 -- Speakers](https://2022.elixirconf.com/speakers)
+[ElixirConf · 2022 -- Sponsors](https://2022.elixirconf.com/sponsors/)

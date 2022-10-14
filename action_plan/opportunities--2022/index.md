@@ -7,12 +7,11 @@
 * [Sources](#sources)
     * [Elixir](#elixir)
     * [Laravel](#laravel)
-    * [NodeJs](#nodejs)
     * [Rejected](#rejected)
 
 ## Workflow
 
-1. Create `opportunities-{date}` file, i.e. [opportunities--2022-05-02.md](opportunities--2022-05-02.md). We use this to batch opportunities in a manageable grouping. This can be in any grouping we choose.
+1. Create `opportunities-{date}` file, i.e. [opportunities--2022-05-02.md](../opportunities--2022-05-02.md). We use this to batch opportunities in a manageable grouping. This can be in any grouping we choose.
     1. The template should be in the form
 
         ```markdown
@@ -58,7 +57,7 @@
     3. Source should link to the weekly file which itself backlinks to the source or the prospect research file.
 
         ```markdown
-        * [Fly.io | Source](opportunities--2021/elixir-conferences.md#fly.io)
+        * [Fly.io | Source](opportunities--2022/elixir-conferences.md#fly.io)
         * [Fly.io | Prospect](../opportunities/prospects/applied/2022-elixir-fly-io/research/index.md)
         ```
 
@@ -110,7 +109,7 @@ Ideally, retrospectives will either happen as a part of every 2 week sprint or i
 First application to Remote was sent `8/20/2021 4:42pm`
 
 1. [Retrospectives](./retrospectives/index.md)
-    1. [February 28, 2022](./retrospectives/2022-02-28.md)
+    1. 
 
 ## Sources
 
@@ -125,10 +124,7 @@ First application to Remote was sent `8/20/2021 4:42pm`
 ### Laravel
 
 1. [Laravel (random)](laravel.md)
-
-### NodeJs
-
-1. [Conferences](node-conferences.md)
+2. [Job Boards](laravel-job_boards.md)
 
 ### Rejected
 
