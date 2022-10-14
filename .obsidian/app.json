@@ -18,5 +18,6 @@
   "useTab": false,
   "legacyEditor": false,
   "livePreview": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "tabSize": 4
 }

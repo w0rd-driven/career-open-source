@@ -1,45 +1,49 @@
 {
   "main": {
-    "id": "e88e0de572ed5662",
+    "id": "5ca23ce73969cf59",
     "type": "split",
     "children": [
       {
-        "id": "be0c63009132f43f",
-        "type": "leaf",
-        "state": {
-          "type": "empty",
-          "state": {}
-        }
+        "id": "8f5043c0306559bd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b2b5f49aeadd0668",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "journal/index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "e602881e46964cbe",
+    "id": "70993c4253fcd76c",
     "type": "split",
     "children": [
       {
-        "id": "a80645ba7b773334",
+        "id": "ce77b1fb5d40b92f",
         "type": "tabs",
         "children": [
           {
-            "id": "d85cfae3f3a67f73",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {}
-            }
-          },
-          {
-            "id": "78d6baa90cd8ed33",
+            "id": "12f5c0ec8d5c951e",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
-              "state": {}
+              "state": {
+                "sortOrder": "alphabetical"
+              }
             }
           },
           {
-            "id": "7802c9f05de3633a",
+            "id": "a0da7d161cdd167e",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -54,7 +58,7 @@
             }
           },
           {
-            "id": "6fba666e60c6dabd",
+            "id": "19e55cf745de1cbd",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -62,43 +66,43 @@
             }
           },
           {
-            "id": "90341932e74ac021",
+            "id": "9919bd4df3c15de2",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "b6deb857c222e400",
             "type": "leaf",
             "state": {
               "type": "file-tree-view",
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
   "right": {
-    "id": "d4591ff5e15d2009",
+    "id": "c52be60fe866a5d0",
     "type": "split",
     "children": [
       {
-        "id": "5cff4117b52c00b6",
+        "id": "65d64bf61f2029d4",
         "type": "tabs",
         "children": [
           {
-            "id": "2b382edd0070462f",
-            "type": "leaf",
-            "state": {
-              "type": "reminder-list",
-              "state": {}
-            }
-          },
-          {
-            "id": "e2ae493cffb7aa6f",
+            "id": "a3b2d521daf8f448",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "collapseAll": false,
+                "file": "journal/index.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -109,18 +113,17 @@
             }
           },
           {
-            "id": "f48f4ccc06b70d47",
+            "id": "de32abcf298fa759",
             "type": "leaf",
             "state": {
-              "type": "outgoing-link",
+              "type": "outline",
               "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "file": "journal/index.md"
               }
             }
           },
           {
-            "id": "8d878768e264950c",
+            "id": "18b3802ef5188b97",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -131,15 +134,35 @@
             }
           },
           {
-            "id": "d9cabc21c827ac63",
+            "id": "a27d863a08949bcb",
             "type": "leaf",
             "state": {
-              "type": "outline",
+              "type": "outgoing-link",
+              "state": {
+                "file": "journal/index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "8c734ad0732a23af",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
               "state": {}
             }
           },
           {
-            "id": "b297a72bd0e12d22",
+            "id": "bb1994ee8d73ae03",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {}
+            }
+          },
+          {
+            "id": "cde5f30d400e3e42",
             "type": "leaf",
             "state": {
               "type": "BC-matrix",
@@ -147,15 +170,7 @@
             }
           },
           {
-            "id": "aa70c1a31a5a68e5",
-            "type": "leaf",
-            "state": {
-              "type": "BC-stats",
-              "state": {}
-            }
-          },
-          {
-            "id": "1817c1fdfb11e866",
+            "id": "3f87b7c2ad498678",
             "type": "leaf",
             "state": {
               "type": "BC-tree",
@@ -163,23 +178,26 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 273
   },
-  "active": "be0c63009132f43f",
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "b2b5f49aeadd0668",
   "lastOpenFiles": [
-    "journal/2022-06-29_Wednesday.md",
-    "journal/2022-06-28_Tuesday.md",
-    "README.md",
-    "action plan/opportunities--future.md",
-    "action plan/opportunities--2022-02-14.md",
-    "action plan/opportunities--2021/retrospectives/2022-02-28.md",
-    "action plan/opportunities--2021/retrospectives/index.md",
-    "cover letters/archive/2022-elixir-spreedly.md",
-    "elevator pitch/resume-summary.md",
-    "elevator pitch/references.md"
+    "journal/2022-10-14_Friday.md",
+    "journal/index.md",
+    "opportunities/prospects/_templates/year-tech-company/interviews/checklist.md",
+    "opportunities/prospects/_templates/year-tech-company/research/checklist.md",
+    "opportunities/prospects/index.md",
+    "opportunities/index.md",
+    "action_plan/opportunities--2021/index.md",
+    "action_plan/dashboard.md",
+    "action_plan/opportunities--2022/index.md",
+    "action_plan/opportunities--2021/elixir.md"
   ]
 }
