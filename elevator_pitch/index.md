@@ -3,20 +3,20 @@
 ### Table of Contents
 
 * [Pitch](#pitch)
-  * [Outline](#outline)
-    * [Greeting](#greeting)
-    * [Years in Profession](#years-in-profession)
-    * [Experience](#experience)
-    * [Accomplishments](#accomplishments)
-    * [Seeking](#seeking)
-    * [Question](#question)
-  * [Complete](#complete)
+    * [Resume](#resume)
+    * [Outline](#outline)
+        * [Greeting](#greeting)
+        * [Years in Profession](#years-in-profession)
+        * [Experience](#experience)
+        * [Accomplishments](#accomplishments)
+        * [Seeking](#seeking)
+        * [Question](#question)
+    * [Complete](#complete)
 * [Career Handbook](#career-handbook)
 * [Biography](#biography)
-* [Summary](#summary)
+* [Resume Summary](#resume-summary)
 * [Questions](#questions)
 * [Thank You Notes](#thank-you-notes)
-* [Hack the Tech Interview](#hack-the-tech-interview)
 
 From the MIT Career Development Handbook, "You have 60 seconds to convince an employer to engage you further."
 While that book frames the pitch from a college graduate perspective, this should be altered to pitch what I'm looking for in job opportunities.
@@ -27,13 +27,23 @@ The handbook also mentions "developing a meaningful elevator pitch requires rese
 
 ## Pitch
 
+### Resume
+
+Over 12 years as a full stack web developer, including 10 years as a systems administrator, specializing in multiple web platforms and technologies.
+Regularly evaluating workflow efficiency to increase productivity and quality throughout the team.
+Deciphering new methodologies to discover their fit in a developer's tool belt.
+Solving complex problems using concise code with an emphasis on being readable and intuitive.
+
 ### Outline
 
 #### Greeting
 
-Hey there, my name is Jeremy Brayton. I am a Full Stack Web Developer
+Hey there, my name is Jeremy Brayton. I am an accomplished Full Stack Web Developer
 
 #### Years in Profession
+
+* Systems Administrator 1/1/2000 - 6/1/2010
+* First developer position starts 5/1/2010
 
 #### Experience
 
@@ -70,4 +80,3 @@ I usually include a bit of the following:
 * A thank you to the recruiter and the person I spoke with
 * Some follow up about what you spoke about (Additional comments, questions, etc)
 * I also include some comments about the problem we solved if it was a tech interview. I would also suggest sending a better solution if you have the time to type one out. Or solve it if time ran out.
-

@@ -8,7 +8,9 @@ A listing of the people by company. Emphasis added to highlight the people that 
 
 ### Rethink
 
-
+* Wayne
+* Sara
+* Jamie
 
 ## Ranking
 
