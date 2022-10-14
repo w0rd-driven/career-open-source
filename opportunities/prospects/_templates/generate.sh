@@ -17,6 +17,7 @@
 #   Companies delimited by comma, jobs are grouped by company in the case of multiple applications
 #     Defaults to prompt for input
 
+# Setup variables
 SCRIPT_NAME=`basename $0`
 SCRIPT_VERSION="v1.0"
 SCAFFOLD_NAME="year-tech-company"
@@ -31,42 +32,42 @@ PROSPECTS_ROOT="$(dirname $PWD)"
 # Print usage and help
 ###
 function usage() {
-	printf "${SCRIPT_NAME} ${SCRIPT_VERSION} usage:\n\n"
-	case "$1" in
-		-y|--year)
-			printf "%b%s\t\t%b%s\n\n" "$RED" "-y | --year" "$CYAN" "Year"
-			# printf "\t%b%s\t%b%s\n" "$PINK" "-s | --server"    "$YELLOW" "the server to which connections will be established"
-			printf "%b\n" "$DEFAULT"; printf "NOTES:\n"
-			printf "\t%s\n\n" "Defaults to the current year, ${YEAR}."
-			printf "EXAMPLES:\n"
-			printf "%b%s\n" "$ORANGE" "${SCRIPT_NAME} -y '2020'"
-			printf "%b%s\n\n" "$DEFAULT" "Generate for the year 2020."
-		;;
-		-t|--tech)
-			printf "%b%s\t\t%b%s\n\n" "$RED" "-t | --tech" "$CYAN" "Technology grouping"
-			printf "%b\n" "$DEFAULT"; printf "NOTES:\n"
-			printf "\t%s\n\n" "Defaults to ${TECHNOLOGY}."
-			printf "EXAMPLES:\n"
-			printf "%b%s\n" "$ORANGE" "${SCRIPT_NAME} -t 'Elixir'"
-			printf "%b%s\n\n" "$DEFAULT" "Generate for the Elixir language."
-		;;
-		-c|--companies)
-			printf "%b%s\t%b%s\n\n" "$RED" "-c | --companies" "$CYAN" "List of companies, comma delimited."
-			printf "%b\n" "$DEFAULT"; printf "NOTES:\n"
-			printf "\t%s\n\n" "Defaults to prompt for user input if not specified."
-			printf "EXAMPLES:\n"
-			printf "%b%s\n" "$ORANGE" "${SCRIPT_NAME} -c 'Hello,World'"
-			printf "%b%s\n\n" "$DEFAULT" "Generate directories for the companies Hello and World."
-		;;
+    printf "${SCRIPT_NAME} ${SCRIPT_VERSION} usage:\n\n"
+    case "$1" in
+        -y|--year)
+            printf "%b%s\t\t%b%s\n\n" "$RED" "-y | --year" "$CYAN" "Year"
+            # printf "\t%b%s\t%b%s\n" "$PINK" "-s | --server"    "$YELLOW" "the server to which connections will be established"
+            printf "%b\n" "$DEFAULT"; printf "NOTES:\n"
+            printf "\t%s\n\n" "Defaults to the current year, ${YEAR}."
+            printf "EXAMPLES:\n"
+            printf "%b%s\n" "$ORANGE" "${SCRIPT_NAME} -y '2020'"
+            printf "%b%s\n\n" "$DEFAULT" "Generate for the year 2020."
+        ;;
+        -t|--tech)
+            printf "%b%s\t\t%b%s\n\n" "$RED" "-t | --tech" "$CYAN" "Technology grouping"
+            printf "%b\n" "$DEFAULT"; printf "NOTES:\n"
+            printf "\t%s\n\n" "Defaults to ${TECHNOLOGY}."
+            printf "EXAMPLES:\n"
+            printf "%b%s\n" "$ORANGE" "${SCRIPT_NAME} -t 'Elixir'"
+            printf "%b%s\n\n" "$DEFAULT" "Generate for the Elixir language."
+        ;;
+        -c|--companies)
+            printf "%b%s\t%b%s\n\n" "$RED" "-c | --companies" "$CYAN" "List of companies, comma delimited."
+            printf "%b\n" "$DEFAULT"; printf "NOTES:\n"
+            printf "\t%s\n\n" "Defaults to prompt for user input if not specified."
+            printf "EXAMPLES:\n"
+            printf "%b%s\n" "$ORANGE" "${SCRIPT_NAME} -c 'Hello,World'"
+            printf "%b%s\n\n" "$DEFAULT" "Generate directories for the companies Hello and World."
+        ;;
         *)
-			printf "%b%s\t\t%b%s\n" "$RED" "-y | --year"    "$WHITE" "Year"
-			printf "%b%s\t\t%b%s\n" "$RED" "-t | --tech"    "$WHITE" "Technology grouping"
-			printf "%b%s\t%b%s\n" "$RED" "-c | --companies" "$WHITE" "List of companies, comma delimited."
-			printf "%b%s\t\t%b%s\n" "$RED" "-h | --help"    "$WHITE" "Show help text"
-			printf "%b\n" "$DEFAULT"; printf "NOTES:\n"
-			printf "\t%s\n\n" "You can further explore an option with -h -?, Example: ${SCRIPT_NAME} -h -y"
-		;;
-	esac
+            printf "%b%s\t\t%b%s\n" "$RED" "-y | --year"    "$WHITE" "Year"
+            printf "%b%s\t\t%b%s\n" "$RED" "-t | --tech"    "$WHITE" "Technology grouping"
+            printf "%b%s\t%b%s\n" "$RED" "-c | --companies" "$WHITE" "List of companies, comma delimited."
+            printf "%b%s\t\t%b%s\n" "$RED" "-h | --help"    "$WHITE" "Show help text"
+            printf "%b\n" "$DEFAULT"; printf "NOTES:\n"
+            printf "\t%s\n\n" "You can further explore an option with -h -?, Example: ${SCRIPT_NAME} -h -y"
+        ;;
+    esac
 }
 
 ###
@@ -130,31 +131,21 @@ function generate() {
 ###
 # Parse options
 ###
-case "$1" in
-	-y|--year) YEAR="${@:2}";;
-	-t|--tech) TECHNOLOGY="${@:2}";;
-	-c|--companies) COMPANIES="${@:2}";;
-	-h|--help) usage "${@:2}" ;;
-	# -q|--sql) query "${@:2}";;
-	# -m|--macro|--macros|--alias) macros "${@:2}" ;;
-	*)
-		# while [[ $# -gt 0 ]]; do
-		# 	if [[ ! $1 =~ ^\-.*$ ]]; then
-		# 		if $(cat $SCRIPT_MACROS/$1 &>/dev/null); then
-		# 			bash $SCRIPT_MACROS/$1
-		# 			shift
-		# 		else
-		# 			printf "%b%s%b" "${RED}" "Entry of $1 does not exist" "\n${DEFAULT}"
-		# 			shift
-		# 		fi
-		# 	else
-		# 		printf "%b%s%b\n" "$RED" "${1} not implemented" "$DEFAULT"
-		# 		usage
-		# 		break
-		# 	fi
-		# done
-	;;
-esac
+NUMARGS="$#"
+POSIT=()
+while [[ $# -gt 0 ]]; do
+    KEY="$1"
+    case $KEY in
+        -y|--year) YEAR="$2" ; shift ;;
+        -t|--tech) TECHNOLOGY="$2" ; shift ;;
+        -c|--companies) COMPANIES="$2" ; shift ;;
+        -h|--help) usage "$2" ; shift ; exit 0 ;;
+        --) usage "$2" ; shift ; exit 0 ;;
+        *) printf "%b%s%b%s%b\n\n" "$WHITE" "${KEY}: " "$RED" "Not implemented." "$DEFAULT" ;;
+    esac
+    shift
+done
+set -- "${POSIT[@]}"
 
 if [ $COMPANIES == "(Prompt)" ]; then
     read_companies

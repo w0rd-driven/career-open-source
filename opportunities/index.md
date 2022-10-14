@@ -29,4 +29,4 @@ Current and previous employment. The section is meant to store green or red flag
 
 [Prospects](prospects/index.md)
 
-Prospective job opportunities from the past and future. These follow the workflow outlined in [our action plan](/action%20plan/opportunities--2021/index.md).
+Prospective job opportunities from the past and future. These follow the workflow outlined in [our action plan](action_plan/opportunities--2021/index.md).

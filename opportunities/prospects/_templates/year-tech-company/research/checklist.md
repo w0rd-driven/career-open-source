@@ -1,6 +1,6 @@
 # Research Checklist
 
-This checklist should be an action-only version of the [current action plan](/action%20plan/opportunities--2021/index.md) as it related to research notes. Refer to that for a deeper explanation of each section.
+This checklist should be an action-only version of the [current action plan](action_plan/opportunities--2022/index.md) as it related to research notes. Refer to that for a deeper explanation of each section.
 
 ## Preliminary Research
 
